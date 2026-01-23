@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(wc:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(xargs cat:*)",
+      "Bash(npx tsc:*)",
+      "Bash(pnpm run check:*)",
+      "Bash(node_modules/.bin/tsc:*)",
+      "Bash(/c/laragon/bin/mysql/mysql-8.0.30-winx64/bin/mysql.exe:*)",
+      "Read(//c/laragon/bin/mysql//**)",
+      "Bash(/c/laragon/bin/mysql/mysql-8.4.3-winx64/bin/mysql.exe:*)",
+      "Bash(npm install:*)",
+      "Bash(npx drizzle-kit generate:*)",
+      "Bash(npx drizzle-kit:*)",
+      "Bash(npx tsx:*)",
+      "Bash(timeout 10 npm run dev:*)",
+      "Bash(timeout:*)",
+      "Bash(npx cross-env:*)",
+      "Bash(npm run db:generate:*)",
+      "Bash(pnpm dev:*)",
+      "Bash(ping:*)",
+      "Bash(npm run build:*)",
+      "Bash(git init:*)"
+    ]
+  }
+}

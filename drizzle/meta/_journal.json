@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1769143341989,
+      "tag": "0000_shallow_skin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1769143499146,
+      "tag": "0001_nosy_spirit",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1769147361890,
+      "tag": "0002_fluffy_lorna_dane",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1769147975964,
+      "tag": "0003_oval_the_executioner",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1769148551564,
+      "tag": "0004_nostalgic_demogoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1769150844511,
+      "tag": "0005_watery_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1769157151397,
+      "tag": "0006_cloudy_leopardon",
+      "breakpoints": true
+    }
+  ]
+}

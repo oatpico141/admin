@@ -1,0 +1,1 @@
+ALTER TABLE `admin_staff` ADD `branches` json;

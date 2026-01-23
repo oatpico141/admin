@@ -1,0 +1,1 @@
+ALTER TABLE `contacts` ADD `customerType` enum('new','existing') DEFAULT 'new' NOT NULL;
